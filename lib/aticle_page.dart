@@ -1,7 +1,5 @@
-
 import 'package:flutter/material.dart';
 import 'package:testing_flutter_apps/article.dart';
-
 
 class ArticlePage extends StatelessWidget {
   final Article article;
